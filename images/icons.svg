@@ -84,5 +84,8 @@
     <symbol id="icon-send" viewBox="0 0 24 20">
       <path d="M24 0L0 11.25L7.66994 13.6172L19.5 4.375L10.5017 14.4913L10.509 14.4936L10.5 14.4913V20L14.8013 15.8183L20.2501 17.5L24 0Z"/>
     </symbol>
+    <symbol id="burger" viewBox="0 0 47 32">
+      <path stroke="#2E2F42" stroke-width="4.3636" stroke-miterlimit="4" stroke-linecap="round" stroke-linejoin="round" d="M1.96 29.154h42.965M1.96 15.615h42.965M1.96 2.077h42.965"/>
+    </symbol>
   </defs>
 </svg>
